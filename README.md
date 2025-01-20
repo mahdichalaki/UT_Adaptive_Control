@@ -3,6 +3,10 @@
 This project involves simulating the concepts covered in the Adaptive Control Course during the academic year 2021-2022 at the University of Tehran.
 (This Readme file (and not the codes and reports) are copied from my classmate's Github account, who took this course in the same semester as I did: https://github.com/yriyazi/UT-Adaptive_Control_400)
 
+<p align="center">
+  <img src="Plot.png" alt="Input-Output plot" width="500">
+</p>
+
 # Simulation1: System Identification and Analysis
 
 This folder contains code and resources for simulating different system identification and analysis methods for an adaptive control scenario. The simulation scenarios included are:
@@ -46,6 +50,9 @@ This folder contains code and resources for simulating fluid level control using
 - Normalized MIT Method for Fluid Level Control
 - Model Reference Adaptive System (MRAS) for Fluid Level Control
 
+<p align="center">
+  <img src="System.png" alt="Input-Output plot" width="500">
+</p>
 
 
 ## Contributing
